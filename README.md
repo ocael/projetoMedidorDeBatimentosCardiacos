@@ -50,7 +50,7 @@ Este repositório implementa um sistema de **monitoramento da frequência cardí
 
 ---
 
-## 📁 Estrutura de Arquivos
+   ## 📁 Estrutura de Arquivos
 
 ```plaintext
 ├── sketch.ino       # Código principal do projeto
@@ -104,3 +104,4 @@ Este projeto utiliza comunicação via protocolo **MQTT** (Message Queuing Telem
 ## 📜 Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo `LICENSE` para mais detalhes.
+
