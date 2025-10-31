@@ -48,6 +48,7 @@ Este repositório implementa um sistema de **monitoramento da frequência cardí
    * Broker: `test.mosquitto.org` porta `1883` via TCP/IP.
    * Cliente MQTT: PubSubClient para ESP32.
 
+---
 
    ## 📁 Estrutura de Arquivos
 
@@ -57,6 +58,7 @@ Este repositório implementa um sistema de **monitoramento da frequência cardí
 ├── pulse-sensor.chip.json  # Configuração do sensor customizado no Wokwi
 ├── pulse-sensor.chip.c     # Código do chip customizado do sensor
 └── libraries.txt    # Bibliotecas necessárias
+```
 
 ---
 
