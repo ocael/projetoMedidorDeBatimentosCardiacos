@@ -53,11 +53,11 @@ Este repositório implementa um sistema de **monitoramento da frequência cardí
    ## 📁 Estrutura de Arquivos
 
 ```plaintext
-├── sketch.ino       # Código principal do projeto
-├── diagram.json     # Diagrama do circuito no Wokwi
+├── sketch.ino              # Código principal do projeto
+├── diagram.json            # Diagrama do circuito no Wokwi
 ├── pulse-sensor.chip.json  # Configuração do sensor customizado no Wokwi
 ├── pulse-sensor.chip.c     # Código do chip customizado do sensor
-└── libraries.txt    # Bibliotecas necessárias
+└── libraries.txt           # Bibliotecas necessárias
 ```
 
 ---
