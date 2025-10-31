@@ -48,7 +48,6 @@ Este repositório implementa um sistema de **monitoramento da frequência cardí
    * Broker: `test.mosquitto.org` porta `1883` via TCP/IP.
    * Cliente MQTT: PubSubClient para ESP32.
 
----
 
    ## 📁 Estrutura de Arquivos
 
